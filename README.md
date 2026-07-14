@@ -1,1 +1,2 @@
-# Africa_Computational_Linguistics_Summer_School_2026
+# Africa Computational Linguistics Summer School 2026
+This contains the dataset built during the summer school particpants. 
